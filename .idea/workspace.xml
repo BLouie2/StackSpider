@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d147b74d-3006-43d1-9748-e658a007ad30" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aJWFNQa4pKA95M30QieCFsNgec" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bigscrape/bigscrape" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.settings">
+    <configuration name="crawler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GoScrape" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bigscrape/bigscrape" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bigscrape/bigscrape/crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GoScrape" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bigscrape/bigscrape" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bigscrape/bigscrape/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.settings" />
+        <item itemvalue="Python.crawler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d147b74d-3006-43d1-9748-e658a007ad30" name="Default Changelist" comment="" />
+      <created>1586454072337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586454072337</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="129" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586917978157">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="129" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1586917978157" />
+    <state width="1355" height="130" key="GridCell.Tab.0.bottom" timestamp="1586899511778">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1355" height="130" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586899511778" />
+    <state width="1355" height="130" key="GridCell.Tab.0.center" timestamp="1586899511777">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1355" height="130" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586899511777" />
+    <state width="1355" height="130" key="GridCell.Tab.0.left" timestamp="1586899511776">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1355" height="130" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586899511776" />
+    <state width="1355" height="130" key="GridCell.Tab.0.right" timestamp="1586899511777">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1355" height="130" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586899511777" />
+    <state width="1355" height="208" key="GridCell.Tab.1.bottom" timestamp="1586893589834">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1355" height="208" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586893589834" />
+    <state width="1355" height="208" key="GridCell.Tab.1.center" timestamp="1586893589833">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1355" height="208" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1586893589833" />
+    <state width="1355" height="208" key="GridCell.Tab.1.left" timestamp="1586893589833">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1355" height="208" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1586893589833" />
+    <state width="1355" height="208" key="GridCell.Tab.1.right" timestamp="1586893589834">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1355" height="208" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1586893589834" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1586829501206">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1586829501206" />
+    <state x="390" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1586956042355">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="390" y="239" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1586956042355" />
+    <state x="277" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586893569598">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="277" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.877@0.23.1440.877" timestamp="1586893569598" />
+  </component>
+</project>
